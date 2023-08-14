@@ -35,4 +35,3 @@ Used seaborn's load_dataset to get iris flower data with measurements and specie
 12.Accuracy Check
 Calculated confusion matrix to check KMeans clustering accuracy.
 Visualized confusion matrix to compare true and predicted labels.
-In simple terms, the project aims to classify iris flowers based on measurements. Steps include data loading, exploration, visualization, K-Means clustering, and accuracy assessment.
