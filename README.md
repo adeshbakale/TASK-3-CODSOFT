@@ -1,12 +1,12 @@
 # TASK-3-CODSOFT
 
-#Aim
+#Aim -
 Create a model to classify iris flowers into different species using their measurements.
 
-#Libraries
+#Libraries -
 Used libraries: numpy, pandas, sklearn.cluster.KMeans, matplotlib.pyplot, seaborn.
 
-#Dataset
+#Dataset -
 Used seaborn's load_dataset to get iris flower data with measurements and species.
 
 Data Exploration
